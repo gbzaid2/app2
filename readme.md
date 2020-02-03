@@ -1,1 +1,1 @@
-Nothing here yet
+Will setup the project structure
